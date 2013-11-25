@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("C:\Users\ton.wolting\Pictures\Otc_small.png") 0 0 no-repeat;
+    background: url("C:\Users\ton.wolting\Pictures\Otc_small.png") 0 0 no-repeat; {
+    background-color: white; }
     display: block;
     width: 130px;
     height: 80px;
