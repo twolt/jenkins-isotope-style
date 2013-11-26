@@ -19,7 +19,8 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
     width: auto; }
   #top-panel td > a {
-    background: url("C:\Users\ton.wolting\Pictures\otc_logo_resize.png") 0 0 no-repeat;
+    background: url("http://i1.ytimg.com/i/nVZhxhPIClb0KiLYcTqsOg/mq1.jpg?v=c990b7") 0 0 no-repeat;
+    background-size: 50%; /* size the background image at 100% like any responsive img tag */
     display: block;
     width: 130px;
     height: 80px;
