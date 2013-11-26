@@ -16,10 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     width: auto; }
   #top-panel td > a {
     background: url("http://01org.github.io/cloudeebus/FOSDEM2013/images/otc-bar.png") 0 0 no-repeat;
-    .resize {
-    width: auto;
-    height : 150px;
-}
+    background-size:1200px 150px;
     background-position:center; 
     padding-top:0px;
     display: block;
