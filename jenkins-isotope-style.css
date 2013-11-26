@@ -20,7 +20,11 @@ h1, h2, h3, h4, h5, h6 {
     background-position:right; 
     padding-top:0px;
     display: block;
+<<<<<<< HEAD
     width: 1280;
+=======
+    width: 1200px;
+>>>>>>> parent of 1504c3d... Update jenkins-isotope-style.css
     height: 150px;
     margin: 0px 0 0px 0px; }
     #top-panel td > a img {
